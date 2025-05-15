@@ -4,8 +4,12 @@ Mental Health Detection & Support App adalah aplikasi berbasis machine learning 
 Tidak hanya mendeteksi, aplikasi ini juga dilengkapi fitur pendukung seperti alat deteksi, aplikasi ini juga dilengkapi dengan fitur pendukung yang bertujuan membantu pengguna menjaga keseimbangan emosional dan psikologis dalam kehidupan sehari-hari.
 
 ## 🎥 Demo Aplikasi
-Tonton demo aplikasi kami di sini:
-<video controls src="Demo Aplikasi Serenity.mp4" title="Title"></video>
+Tonton demo aplikasi kami di sini
+
+
+https://github.com/user-attachments/assets/6e71c2d1-f81a-43b6-a50a-7da193d59360
+
+
 
 ## ✨ **Fitur Unggulan**
 
