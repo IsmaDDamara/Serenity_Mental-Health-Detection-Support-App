@@ -1,6 +1,6 @@
 # 🧠 **Mental Health Detection & Support App**
 
-Mental Health Detection & Support App adalah aplikasi berbasis machine learning yang dirancang untuk membantu pengguna mendeteksi potensi gangguan kesehatan mental berdasarkan gejala yang dirasakan. Aplikasi ini memberikan hasil analisis yang cepat dan akurat sebagai langkah awal untuk memahami kondisi mental pengguna.
+Serenity adalah aplikasi berbasis machine learning yang dirancang untuk membantu pengguna mendeteksi potensi gangguan kesehatan mental berdasarkan gejala yang dirasakan. Aplikasi ini memberikan hasil analisis yang cepat dan akurat sebagai langkah awal untuk memahami kondisi mental pengguna.
 Tidak hanya mendeteksi, aplikasi ini juga dilengkapi fitur pendukung seperti alat deteksi, aplikasi ini juga dilengkapi dengan fitur pendukung yang bertujuan membantu pengguna menjaga keseimbangan emosional dan psikologis dalam kehidupan sehari-hari.
 
 ## 🎥 Demo Aplikasi
