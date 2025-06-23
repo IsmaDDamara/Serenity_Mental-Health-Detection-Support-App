@@ -1,42 +1,42 @@
 # 🧠 **Mental Health Detection & Support App**
 
-Mental Health Detection & Support App adalah aplikasi berbasis machine learning yang dirancang untuk membantu pengguna mendeteksi potensi gangguan kesehatan mental berdasarkan gejala yang dirasakan. Aplikasi ini memberikan hasil analisis yang cepat dan akurat sebagai langkah awal untuk memahami kondisi mental pengguna.
-Tidak hanya mendeteksi, aplikasi ini juga dilengkapi fitur pendukung seperti alat deteksi, aplikasi ini juga dilengkapi dengan fitur pendukung yang bertujuan membantu pengguna menjaga keseimbangan emosional dan psikologis dalam kehidupan sehari-hari.
+The **Mental Health Detection & Support App** is a machine learning-based application designed to help users detect potential mental health disorders based on their reported symptoms. It provides fast and accurate analysis as an initial step toward understanding the user's mental condition.
+Beyond detection, the app also includes supportive features aimed at helping users maintain emotional and psychological balance in their daily lives.
 
-## 🎥 Demo Aplikasi
-Tonton demo aplikasi kami di sini:
-<video controls src="Demo Aplikasi Serenity.mp4" title="Title"></video>
+## 🎥 App Demo
 
-## ✨ **Fitur Unggulan**
+Watch the demo of our application here: <video controls src="Demo Aplikasi Serenity.mp4" title="Title"></video>
 
-🔍 **Deteksi Gangguan Mental**: Analisis gejala berdasarkan skala yang diisi pengguna untuk mengidentifikasi potensi gangguan seperti depresi, kecemasan, bipolar, PTSD, dan lainnya.
+## ✨ **Key Features**
 
-🎵 **Meditasi & Musik Relaksasi**: Koleksi musik yang menenangkan untuk membantu proses relaksasi dan pengelolaan stres.
+🔍 **Mental Health Disorder Detection**: Analyzes symptoms provided by users through a scale-based input to identify potential conditions such as depression, anxiety, bipolar disorder, PTSD, and more.
 
-🧘 **Gerakan Yoga**: Rekomendasi gerakan yoga ringan yang bermanfaat bagi kesehatan mental dan fisik.
+🎵 **Meditation & Relaxation Music**: A curated collection of calming music to support relaxation and stress management.
 
-💬 **Konsultasi Psikolog**: Akses ke daftar psikolog profesional untuk konsultasi lebih lanjut melalui platform eksternal atau integrasi dalam aplikasi.
+🧘 **Yoga Movements**: Recommended light yoga exercises that benefit both mental and physical health.
 
-## **🚀 Cara Menjalankan Proyek**
+💬 **Psychologist Consultation**: Access to a list of professional psychologists for further consultation through external platforms or integrated features within the app.
 
-**Clone repository:**
+## 🚀 **How to Run the Project**
+
+**Clone the repository:**
 
 ```bash
-
 git clone https://github.com/IsmaDDamara/Serenity_Mental-Health-Detection-Support-App.git
 ```
 
-**Masuk ke file main:**
+**Navigate to the main file:**
 
 ```bash
 cd app/lib
 ```
 
-**Jalankan app:**
+**Run the app:**
 
 ```bash
 dart run main.dart
 ```
 
-📄 Lisensi
-Proyek ini dilisensikan di bawah MIT License – Silakan gunakan dan modifikasi dengan tetap menyertakan atribusi.
+## 📄 License
+
+This project is licensed under the **MIT License** – Feel free to use and modify it with proper attribution.
