@@ -3,9 +3,10 @@
 The **Mental Health Detection & Support App** is a machine learning-based application designed to help users detect potential mental health disorders based on their reported symptoms. It provides fast and accurate analysis as an initial step toward understanding the user's mental condition.
 Beyond detection, the app also includes supportive features aimed at helping users maintain emotional and psychological balance in their daily lives.
 
-## 🎥 App Demo
 
-Watch the demo of our application here: <video controls src="Demo Aplikasi Serenity.mp4" title="Title"></video>
+## 🎥 App Demo
+Watch the demo of our application here: 
+<video controls src="Demo Aplikasi Serenity.mp4" title="Title"></video>
 
 ## ✨ **Key Features**
 
